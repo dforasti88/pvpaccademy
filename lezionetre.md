@@ -17,7 +17,7 @@ has_toc: false
 
 <hr>
 
-<h2>1) Identità del BG (come si vince davvero)</h2>
+<h2>1) Identità del BG </h2>
 <p><strong>Formato:</strong> 10v10.</p>
 <p><strong>Meccanica chiave:</strong> raccolta e mantenimento delle <strong>sfere</strong> che generano punti nel tempo.</p>
 
