@@ -1,4 +1,4 @@
-title: PvP Accademy by Parroco
+title: pvpaccademy
 description: 
 remote_theme: just-the-docs/just-the-docs
 search_enabled: false
@@ -6,4 +6,4 @@ just_the_docs:
   toc_enabled: false
 
 url: "https://dforasti88.github.io"
-baseurl: "/projectbeta"
+baseurl: "/pvpaccademy"
