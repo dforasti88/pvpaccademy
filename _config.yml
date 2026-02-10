@@ -1,4 +1,4 @@
-title: pvpaccademy
+title: PVP Academy
 description: 
 remote_theme: just-the-docs/just-the-docs
 search_enabled: false
@@ -9,4 +9,4 @@ footer_content: ""
 back_to_top: false
 
 url: "https://dforasti88.github.io"
-baseurl: "/pvpaccademy"
+baseurl: "/pvpacademy"
