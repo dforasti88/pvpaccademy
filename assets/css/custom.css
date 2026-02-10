@@ -1,6 +1,4 @@
-/* Rimuove eventuali bordi/separatori generici */
-.main-content-wrap,
-.main,
-.site-nav {
-  border: none !important;
+body {
+  outline: 8px solid red !important;
 }
+
