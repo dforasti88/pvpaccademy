@@ -1,0 +1,4 @@
+/* Nasconde i separatori orizzontali (linee) nel contenuto */
+.main-content hr {
+  display: none !important;
+}
