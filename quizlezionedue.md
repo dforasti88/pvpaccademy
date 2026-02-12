@@ -116,6 +116,3 @@ D) Difendere una torre e fare team deathmatch
 </ol>
 
 </details>
-
-
-</details>
