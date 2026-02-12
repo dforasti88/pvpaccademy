@@ -2,7 +2,6 @@
 title: Quiz – Bacino di Arathi (Versione Mappa-Centrica)
 parent: Quiz lezioni
 nav_order: 1
-nav_open: true
 has_toc: false
 ---
 
